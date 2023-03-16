@@ -1,3 +1,6 @@
+// By: Burak
+// github.com/bur-ak-47
+
 const RPC = require('discord-rpc');
 const { receiveMessageOnPort } = require('worker_threads');
 const rpc = new RPC.Client({
