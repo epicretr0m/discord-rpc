@@ -5,4 +5,4 @@ This is a script for get a discord rich presence made in JavaScript by BURAK
 Just start the install.bat file
 
 ### View
-![alt text](https://ray.so/#code=ICAgICAgICBsYXJnZUltYWdlS2V5OiAnJywKICAgICAgICBsYXJnZUltYWdlVGV4dDogJycsCiAgICAgICAgc21hbGxJbWFnZUtleTogJycsCiAgICAgICAgc21hbGxJbWFnZVRleHQ6ICcnLA&padding=64&width=520&language=javascript&title=rpc.js&theme=breeze)
+![alt text](https://cdn.discordapp.com/attachments/1050938327144071168/1086076068110278717/ray-so-export.png)
