@@ -1,5 +1,5 @@
 # discord-rpc
-This is a script for get a discord rich presence made in JavaScript by BURAK
+This is a script for get a discord rich presence made in JavaScript
 
 ### Install
 Just start the install.bat file
